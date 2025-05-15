@@ -1,6 +1,6 @@
 # Laura-link32_manual
+“Laura-link32 is the post-thesis continuation and evolution of the LORA-LINK32 academic project, developed for off-grid communication without reliance on fixed towers or infrastructure.”
 
-🛰️ LORA-LINK32 v1.0
 📦 Prototype Version: Prototype Y (v1.0)
 
 👨‍💻 Developers:
